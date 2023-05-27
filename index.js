@@ -7,10 +7,5 @@ const port = process.env.PORT || 8000
 
 
 server.use(middlewares)
-
-server.options('*', cors(corsOptions));
-
-server.use(router);
-
 server.use(router)
 server.listen(port)
