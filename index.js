@@ -1,11 +1,15 @@
-const jsonServer = require("json-server")
-const server = jsonServer.create()
-const router = jsonServer.router("db.json")
+const JsonServer = require('json-server');
+const cors = require('cors');
+require("dotenv").config();
+const server = JsonServer.create();
+const router = JsonServer.router('db.json');
+const middleware = JsonServer.defaults()
 
-const middlewares = jsonServer.defaults()
-const port = process.env.PORT || 8000
 
+server.use(middleware);
+server.use(router);
+server.use(JsonServer.bodyParser);
 
-server.use(middlewares)
-server.use(router)
-server.listen(port)
+server.listen(process.env.port,()=>{
+    console.log('running on port '+process.env.port);
+})

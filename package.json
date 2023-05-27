@@ -1,26 +1,18 @@
 {
-  "name": "mock5",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ilahiamaan606/mock5.git"
+    "server":"node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ilahiamaan606/mock5/issues"
-  },
-  "homepage": "https://github.com/ilahiamaan606/mock5#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
+    "dotenv": "^16.0.3",
     "json-server": "^0.17.3"
   }
 }
