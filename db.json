@@ -1,55 +1,27 @@
+
 {
-  "freelancers": [
-    {
-      "name": "bb",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
-      "password": "123",
-      "profession": "Student",
-      "skill": "aaa",
-      "rate": "222",
-      "id": 4
-    },
-    {
-      "name": "cc",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
-      "password": "123",
-      "profession": "Student",
-      "skill": "aaa",
-      "rate": "333",
-      "id": 4
-    },
-    {
-      "name": "dd",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
-      "password": "123",
-      "profession": "Student",
-      "skill": "aaa",
-      "rate": "444",
-      "id": 4
-    },
-    {
-      "name": "ee",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
-      "password": "123",
-      "profession": "Web Developer",
-      "skill": "aaa",
-      "rate": "555",
-      "id": 4
-    },
-    {
-      "name": "amaan",
-      "image": "uu",
-      "email": "anonymousbeing606@gmail.com",
-      "password": "222",
-      "profession": "Web Developer",
-      "skill": "11",
-      "rate": "22",
-      "status": false,
-      "id": 5
-    }
-  ]
-}
+    "freelancers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+              "isBooked" : false
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": ["Photoshop", "Illustrator"],
+        "hourly_rate": 30,
+        "profile_picture": "profile2.jpg",
+              "isBooked" : true
+      }
+    ]
+  }
