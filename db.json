@@ -1,0 +1,55 @@
+{
+  "freelancers": [
+    {
+      "name": "bb",
+      "image": "ii",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "123",
+      "profession": "Student",
+      "skill": "aaa",
+      "rate": "222",
+      "id": 4
+    },
+    {
+      "name": "cc",
+      "image": "ii",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "123",
+      "profession": "Student",
+      "skill": "aaa",
+      "rate": "333",
+      "id": 4
+    },
+    {
+      "name": "dd",
+      "image": "ii",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "123",
+      "profession": "Student",
+      "skill": "aaa",
+      "rate": "444",
+      "id": 4
+    },
+    {
+      "name": "ee",
+      "image": "ii",
+      "email": "ilahiamaan606@gmail.com",
+      "password": "123",
+      "profession": "Web Developer",
+      "skill": "aaa",
+      "rate": "555",
+      "id": 4
+    },
+    {
+      "name": "amaan",
+      "image": "uu",
+      "email": "anonymousbeing606@gmail.com",
+      "password": "222",
+      "profession": "Web Developer",
+      "skill": "11",
+      "rate": "22",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
