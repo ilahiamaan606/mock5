@@ -1,55 +1,103 @@
 {
-    "freelancers":[
-        {
-      "name": "bb",
+  "freelancers": [
+    {
+      "name": "AAAA",
       "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
+      "email": "AAA@gmail.com",
       "password": "123",
       "profession": "Student",
-      "skill": "aaa",
-      "rate": "222",
-      "id": 4
+      "skill": "AAA",
+      "rate": "100",
+      "status": false,
+      "id": 1
     },
     {
-      "name": "cc",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
+      "name": "BBB",
+      "image": "BBB",
+      "email": "BBB@gmail.com",
       "password": "123",
       "profession": "Student",
-      "skill": "aaa",
-      "rate": "333",
-      "id": 4
+      "skill": "CCC",
+      "rate": "200",
+      "status": false,
+      "id": 2
     },
     {
-      "name": "dd",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
+      "name": "CCC",
+      "image": "CCC",
+      "email": "CCC@gmail.com",
       "password": "123",
-      "profession": "Student",
-      "skill": "aaa",
-      "rate": "444",
-      "id": 4
+      "profession": "Graphic Designer",
+      "skill": "CCC",
+      "rate": "300",
+      "status": false,
+      "id": 3
     },
     {
-      "name": "ee",
-      "image": "ii",
-      "email": "ilahiamaan606@gmail.com",
+      "name": "DDD",
+      "image": "DDD",
+      "email": "DDD@gmail.com",
       "password": "123",
       "profession": "Web Developer",
-      "skill": "aaa",
-      "rate": "555",
+      "skill": "DDD",
+      "rate": "400",
+      "status": false,
       "id": 4
     },
     {
-      "name": "amaan",
-      "image": "uu",
-      "email": "anonymousbeing606@gmail.com",
+      "name": "EEE",
+      "image": "EEE",
+      "email": "EEE@gmail.com",
       "password": "222",
       "profession": "Web Developer",
-      "skill": "11",
-      "rate": "22",
+      "skill": "EEE",
+      "rate": "500",
       "status": false,
       "id": 5
+    },
+    {
+      "name": "FFF",
+      "image": "FFF",
+      "email": "FFF@gmail.com",
+      "password": "123",
+      "profession": "Graphic Designer",
+      "skill": "FFF",
+      "rate": "600",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "GGG",
+      "image": "GGG",
+      "email": "GGG@gmail.com",
+      "password": "123",
+      "profession": "Graphic Designer",
+      "skill": "GGG",
+      "rate": "800",
+      "status": false,
+      "id": 7
+    },
+    {
+      "name": "HHH",
+      "image": "HHH",
+      "email": "HHH@gmail.com",
+      "password": "123",
+      "profession": "Graphic Designer",
+      "skill": "HHH",
+      "rate": "300",
+      "status": false,
+      "id": 8
+    },
+    {
+      "name": "III",
+      "image": "III",
+      "email": "III@gmail.com",
+      "password": "123",
+      "profession": "Graphic Designer",
+      "skill": "III",
+      "rate": "400",
+      "status": false,
+      "id": 9
     }
-    ]
+  ]
 }
